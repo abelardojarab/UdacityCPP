@@ -1,5 +1,5 @@
 # ROS .gitignore template
-
+CMakeLists.log
 .vscode/
 devel/
 logs/
