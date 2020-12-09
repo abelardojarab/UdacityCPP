@@ -71,4 +71,4 @@ CATKIN_IGNORE
 *.o
 
 # Binaries
-a_star
+A_Star_Search
