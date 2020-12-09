@@ -68,3 +68,6 @@ CATKIN_IGNORE
 
 # C/C++
 *.o
+
+# Binaries
+a_star

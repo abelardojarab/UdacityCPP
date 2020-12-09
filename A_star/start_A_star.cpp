@@ -48,7 +48,7 @@ vector<vector<State>> Search(vector<vector<State>> board, int start[], int goal[
 
   // return empty vector for now
   // vector<vector<State>> v;
-  // return v; 
+  // return v;
   // For returning an empty vector, it's BETTER to:
   return std::vector<vector<State>> {};
 
@@ -57,7 +57,7 @@ vector<vector<State>> Search(vector<vector<State>> board, int start[], int goal[
 string CellString(State cell) {
   switch(cell) {
     case State::kObstacle: return "⛰   ";
-    default: return "0   "; 
+    default: return "0   ";
   }
 }
 
