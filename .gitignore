@@ -1,5 +1,6 @@
 # ROS .gitignore template
 
+.vscode/
 devel/
 logs/
 doc/
