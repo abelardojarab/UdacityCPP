@@ -69,6 +69,10 @@ CATKIN_IGNORE
 
 # C/C++
 *.o
+*.a
+bin/
+**/bin/**
+**/lib/** 
 
 # Binaries
 A_Star_Search
